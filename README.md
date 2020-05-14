@@ -15,7 +15,7 @@ The functionality of this employee directory allows users to view non-sensitive 
 
 ## Deployment
 
-[https://wrose001.github.io/employee-directory](https://wrose001.github.io/employee-directory)
+[https://blooming-island-94772.herokuapp.com/saved](https://blooming-island-94772.herokuapp.com/saved)
 
 ## Video
 
