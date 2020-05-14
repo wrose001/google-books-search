@@ -37,7 +37,7 @@ Please make sure to update tests as appropriate.
 
 # Acknowledgments
 
-Many thanks to my tutors, Tammy and Sai, as well our TAs, Owais and Amanda, and Calvin, my instructor, for help with React and the manifest, as well as deployment on GitHub pages.
+Many thanks to my tutors, Tammy and Sai, as well our TAs, Owais and Amanda, and Calvin, my instructor, for help with React and the manifest, as well as deployment on Heroku.
 
 # Badges
 
