@@ -4,9 +4,13 @@ The functionality of this employee directory allows users to view non-sensitive 
 
 ### Included Files
 
-* public folder
-* src folder with components folder, App.js, App.CSS, App.test.js, employees.json, index.js, and index.css
+* client folder
+* controllers folder
+* models folder
+* routes folder
+* scripts folder
 * package.json
+* server.js
 * gitignore
 * yarn.lock
 * README.md
