@@ -1,6 +1,6 @@
 # google-books-search
 
-The functionality of this employee directory allows users to view non-sensitive data for all employees of a given company, including a photo, first/last name, department, title, email, and gender. Users can filter the list of 100 employees by last name in the search bar. Moreover, font awesome icons next to the First Name and Last Name column titles indicate that users can sort (i.e., in ascending or descending order) employees in alphabetical or reverse-alphabetical order by first or last name. An employee directory is a standard feature of most company websites and is greatly beneficial to internal or external stakeholders attempting to contact or gather non-sensitive data on employees within a large organization.
+This Google Books Search app utilizes and API to allow users to search and save books. When a user search a book in the search bar, books are generated, including a picture of the cover page, title, author, a description of the book, and publication date. If a user clicks the Save button, the book will be saved to their profile. By navigating to the Saved Books page, users can see a list of their saved books. By clicking View, they are taken to a new tab to see the particular Google Book. However, in the Saved Books page, users can also Unsave a book to remove from their section.
 
 ### Included Files
 
@@ -27,7 +27,7 @@ The functionality of this employee directory allows users to view non-sensitive 
 
 ## Built With
 
-This app was built with React, axios, express, mongoose, and nodemon.
+This app was built with React, axios, express, mongoose, and nodemon. This app is deployed on Heroku.
 
 ## Contributing
 
