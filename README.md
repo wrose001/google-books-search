@@ -23,7 +23,7 @@ The functionality of this employee directory allows users to view non-sensitive 
 
 ## Built With
 
-This app was built with React, including class components. The employees.json was created in mock json generator I found online, which automatically created data for all the fields I chose, including avatars. I also used serviceWorker.js and manifest.
+This app was built with React, axios, express, mongoose, and nodemon.
 
 ## Contributing
 
