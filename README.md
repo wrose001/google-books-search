@@ -23,7 +23,7 @@ This Google Books Search app utilizes and API to allow users to search and save 
 
 ## Video
 
-![Budget Tracker GIF](public/video/directory.gif) 
+![Book Search GIF](./client/public/video/book.gif) 
 
 ## Built With
 
